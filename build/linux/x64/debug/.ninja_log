@@ -1,0 +1,26 @@
+# ninja log v5
+0	12489	0	/home/mahdi/flutter_projects/ui-ux-auth-blooddonnation-main/linux/flutter/ephemeral/libflutter_linux_gtk.so	8c7f8ba629ba6e15
+0	12489	0	/home/mahdi/flutter_projects/ui-ux-auth-blooddonnation-main/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	8c7f8ba629ba6e15
+0	12489	0	/home/mahdi/flutter_projects/ui-ux-auth-blooddonnation-main/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	8c7f8ba629ba6e15
+0	12489	0	/home/mahdi/flutter_projects/ui-ux-auth-blooddonnation-main/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	8c7f8ba629ba6e15
+0	12489	0	/home/mahdi/flutter_projects/ui-ux-auth-blooddonnation-main/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	8c7f8ba629ba6e15
+0	12489	0	/home/mahdi/flutter_projects/ui-ux-auth-blooddonnation-main/linux/flutter/ephemeral/flutter_linux/fl_engine.h	8c7f8ba629ba6e15
+0	12489	0	/home/mahdi/flutter_projects/ui-ux-auth-blooddonnation-main/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	8c7f8ba629ba6e15
+0	12489	0	/home/mahdi/flutter_projects/ui-ux-auth-blooddonnation-main/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	8c7f8ba629ba6e15
+0	12489	0	/home/mahdi/flutter_projects/ui-ux-auth-blooddonnation-main/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	8c7f8ba629ba6e15
+0	12489	0	/home/mahdi/flutter_projects/ui-ux-auth-blooddonnation-main/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	8c7f8ba629ba6e15
+0	12489	0	/home/mahdi/flutter_projects/ui-ux-auth-blooddonnation-main/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	8c7f8ba629ba6e15
+0	12489	0	/home/mahdi/flutter_projects/ui-ux-auth-blooddonnation-main/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	8c7f8ba629ba6e15
+0	12489	0	/home/mahdi/flutter_projects/ui-ux-auth-blooddonnation-main/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	8c7f8ba629ba6e15
+0	12489	0	/home/mahdi/flutter_projects/ui-ux-auth-blooddonnation-main/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	8c7f8ba629ba6e15
+0	12489	0	/home/mahdi/flutter_projects/ui-ux-auth-blooddonnation-main/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	8c7f8ba629ba6e15
+0	12489	0	/home/mahdi/flutter_projects/ui-ux-auth-blooddonnation-main/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	8c7f8ba629ba6e15
+0	12489	0	/home/mahdi/flutter_projects/ui-ux-auth-blooddonnation-main/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	8c7f8ba629ba6e15
+0	12489	0	/home/mahdi/flutter_projects/ui-ux-auth-blooddonnation-main/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	8c7f8ba629ba6e15
+0	12489	0	/home/mahdi/flutter_projects/ui-ux-auth-blooddonnation-main/linux/flutter/ephemeral/flutter_linux/fl_value.h	8c7f8ba629ba6e15
+0	12489	0	/home/mahdi/flutter_projects/ui-ux-auth-blooddonnation-main/linux/flutter/ephemeral/flutter_linux/fl_view.h	8c7f8ba629ba6e15
+0	12489	0	/home/mahdi/flutter_projects/ui-ux-auth-blooddonnation-main/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	8c7f8ba629ba6e15
+0	12489	0	flutter/_phony_	8c7f8ba629ba6e15
+12490	13605	1719476751060205301	CMakeFiles/blooddonation.dir/flutter/generated_plugin_registrant.cc.o	1b021292f318a219
+12489	13610	1719476751064205301	CMakeFiles/blooddonation.dir/main.cc.o	7437838869ca824b
+12489	13688	1719476751144205300	CMakeFiles/blooddonation.dir/my_application.cc.o	f4e811a6297aa3c

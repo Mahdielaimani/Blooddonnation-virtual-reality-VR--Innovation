@@ -1,0 +1,1 @@
+ /home/mahdi/flutter_projects/blood-donnation-main/.dart_tool/flutter_build/56b62a02f37b6a92cca5eaba3fa5ebe3/native_assets.yaml: 

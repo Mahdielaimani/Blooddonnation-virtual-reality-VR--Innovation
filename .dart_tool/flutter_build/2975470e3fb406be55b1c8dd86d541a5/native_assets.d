@@ -1,0 +1,1 @@
+ /home/mahdi/flutter_projects/ui-ux-auth-blooddonnation-main/.dart_tool/flutter_build/2975470e3fb406be55b1c8dd86d541a5/native_assets.yaml: 
